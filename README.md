@@ -1,8 +1,11 @@
 ## 👋 Hi there
 
 ---
+
 ![snake](https://raw.githubusercontent.com/cjh1230/cjh1230/output/github-contribution-grid-snake-dark.svg)
+
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
