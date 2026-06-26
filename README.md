@@ -6,9 +6,12 @@
 
 ### 📊 GitHub 统计
 
-![cjh1230's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh1230&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjh1230&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjh1230&theme=tokyonight" alt="profile details"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjh1230&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cjh1230&theme=tokyonight" alt="productive time"/>
+</div>
 
 ---
 
