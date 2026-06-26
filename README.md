@@ -1,10 +1,9 @@
 ## 👋 Hi there
 
-欢迎来到我的 GitHub 主页！
-
 ---
-
-### 📊 GitHub 统计
+![snake](https://raw.githubusercontent.com/cjh1230/cjh1230/output/github-contribution-grid-snake-dark.svg)
+---
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cjh1230&theme=tokyonight" alt="profile details"/>
@@ -15,13 +14,7 @@
 
 ---
 
-### 🐍 贡献蛇形图
-
-![snake](https://raw.githubusercontent.com/cjh1230/cjh1230/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 🛠️ 技术栈
+### 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
